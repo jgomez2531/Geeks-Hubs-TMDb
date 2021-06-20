@@ -1,6 +1,6 @@
 .searchInput {
     width: 900px;
-    padding-top: 1em;
+    padding-top: 2em;
     padding-bottom: 1.5em;
     margin: auto;
     border-radius: 2em;
@@ -20,4 +20,21 @@
     padding-left: 1em;
     padding-right: 1em;
     height: 50px;
+}
+
+.divSearch {
+    height: 270px;
+    background-image: url(./background.jpg);
+}
+
+h2 {
+    color: #fff;
+    font-weight: bolder;
+    padding-left: 2em;
+    padding-top: 1em;
+}
+
+h3 {
+    color: #fff;
+    padding-left: 2.3em;
 }
