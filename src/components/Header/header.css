@@ -23,6 +23,10 @@ span {
     height: 40px; 
 }
 
+a {
+    text-decoration: none;
+}
+
 /*
 span:hover {
     background: linear-gradient(to right, #92C9AA, #67BCC2);

@@ -1,0 +1,13 @@
+.movies {
+    display: grid;
+    grid-template: repeat(4,1fr) / repeat(5,1fr);
+    padding: 2em 2em 2em 2em;
+}
+
+.titlePage {
+    color: #2e2e2e;
+    font-size: 2.5em;
+    text-align: center !important;
+    padding-top: 1em;
+    font-weight: bolder;
+}

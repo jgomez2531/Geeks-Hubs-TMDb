@@ -1,12 +1,19 @@
 import React from 'react';
 import Header from './Header/header';
 import Search from './Search/search';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import Movies from './Movies/movies';
 
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <Search/>
+      <BrowserRouter>
+        <Header/>
+        <Search/>
+        <Switch>
+          <Route path="/:movieType" component={Movies} exact/>
+        </Switch>
+      </BrowserRouter>
     </div>
   );
 }
