@@ -3,9 +3,9 @@ import './header.css';
 
 const Header = props => {
     return (<header>
-        <span className="populares">Películas populares</span>
-        <span className="upcoming">Próximos estrenos</span>
-        <span className="top-rated">Películas más votadas</span>
+        <div className="spanMenu"><span className="populares">Películas populares</span></div>
+        <div className="spanMenu"><span className="upcoming">Próximos estrenos</span></div>
+        <div className="spanMenu"><span className="top-rated">Películas mejor valoradas</span></div>
     </header>)
 };
 

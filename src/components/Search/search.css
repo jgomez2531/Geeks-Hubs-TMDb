@@ -1,0 +1,23 @@
+.searchInput {
+    width: 900px;
+    padding-top: 1em;
+    padding-bottom: 1.5em;
+    margin: auto;
+    border-radius: 2em;
+}
+
+.inputSearch {
+    border-radius: 2em;
+    height: 50px;
+    padding-left: 2em;
+}
+
+.btn-search {
+    background: linear-gradient(to right, #92C9AA, #67BCC2);
+    color: #fff;
+    border-top-right-radius: 2em;
+    border-bottom-right-radius: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    height: 50px;
+}

@@ -8,15 +8,25 @@ header {
 }
 
 span {
-    padding: 0.8em;
-    border-radius: 0.4em;
+    padding: 0em 2em 0em 2em;
     cursor: pointer;
-    background-color: #fff;
-    transition: all 0.5s;
-
+    font-weight: bolder;
+    background: -webkit-linear-gradient(#92C9AA, #67BCC2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
-span:hover {
+.spanMenu {
+    padding-top: 6px;
+    border-radius: 0.4em;
     background-color: #0D243F;
+    height: 40px; 
+}
+
+/*
+span:hover {
+    background: linear-gradient(to right, #92C9AA, #67BCC2);
     color: #fff;
 }
+
+*/
