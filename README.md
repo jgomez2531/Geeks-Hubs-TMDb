@@ -1,2 +1,0 @@
-# TMDb API - ReactJS - Redux
- 
