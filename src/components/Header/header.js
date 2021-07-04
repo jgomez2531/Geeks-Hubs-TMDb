@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 const Header = props => {
     return (<header>
-        <NavLink to="/popular">
+        <NavLink to="popular">
             <div className="spanMenu"><span className="populares">Películas populares</span></div>
         </NavLink>
         <NavLink to="upcoming">

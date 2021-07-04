@@ -1,0 +1,31 @@
+.moviePosterDetails {
+    border-radius: 1em;
+}
+
+.details {
+    padding-bottom: 3em;
+}
+
+.detailsMovieHeader {
+    color: #2e2e2e;
+    font-size: 2.5em;
+    text-align: center !important;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-weight: bolder;
+}
+
+.titleDetails {
+    display:flex;
+    justify-content:flex-start;
+}
+
+.titleDetails p {
+    margin-top: 1.2em;
+    margin-left: 1em;
+}
+
+.voteDetails {
+    font-weight: bolder;
+    font-size: 3em;
+}
