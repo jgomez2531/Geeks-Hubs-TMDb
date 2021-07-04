@@ -1,5 +1,5 @@
 # TMDb API - ReactJS + Redux
-Aplicación que consume de la API de TMDb y permite consultar fichas técnicas de películas. También implementa un buscador para realizar busquedas personalizadas.
+Aplicación que consume de la API de TMDb y permite consultar fichas técnicas de películas. También implementa un buscador para realizar búsquedas personalizadas.
 
 ![ezgif-7-53e7ae21c953](https://user-images.githubusercontent.com/76822966/124402250-57225000-dd2f-11eb-864c-ecaf094a892c.gif)
 
