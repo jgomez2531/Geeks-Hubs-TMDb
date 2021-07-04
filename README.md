@@ -15,4 +15,4 @@ Aplicación que consume de la API de TMDb y permite consultar fichas técnicas d
  
 
  ## Live Preview:
-:tv: https://trello-clone-react-redux.herokuapp.com/
+:tv: https://tmdb-api-react.herokuapp.com/
